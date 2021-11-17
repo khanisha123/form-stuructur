@@ -1,0 +1,21 @@
+#submit{
+    background-color: cornflowerblue;
+    color: black;
+    height: 30px;
+
+}
+
+input:focus{
+
+background-color: yellow;
+
+
+}
+
+#main{
+
+    background-color: white;
+}
+
+
+
